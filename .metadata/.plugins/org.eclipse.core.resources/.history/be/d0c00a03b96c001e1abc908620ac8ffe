@@ -1,0 +1,24 @@
+package edu;
+
+public class Test1 {
+
+	public static void main(String[] args) {
+		byte num1 = 1;
+		short num2 = 20;
+		long num3 = 300;
+		int depositAmount = 214783648
+		depositAmount = 50000;
+		boolean isMarried = true;
+		char gender = 'F';
+		gender = 'M';
+		String greet = "good morning";
+		System.out.println(greet + "\n" + isMarried + "\t" + gender);
+		
+	
+		
+	}
+
+}
+
+
+

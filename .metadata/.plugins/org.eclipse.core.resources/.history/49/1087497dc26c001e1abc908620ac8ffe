@@ -1,0 +1,11 @@
+package edu;
+
+public class Test11 {
+
+	public static void main(String[] args) {
+
+		 byte a = (byte) 0b11110100;
+		
+	}
+
+}
